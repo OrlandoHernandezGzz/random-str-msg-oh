@@ -1,0 +1,20 @@
+{
+  "name": "random-str-msg-oh",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Orlando Hernández <orlando@test.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/OrlandoHernandezGzz/random-str-msg-oh#readme",
+  "bin": {
+    "random-str-msg-oh": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
